@@ -1,0 +1,54 @@
+# Automated Data Cleaning & Reporting System
+
+## Project Description
+
+The Automated Data Cleaning & Reporting System is a Python-based data analytics project developed to simplify and automate data preprocessing and reporting workflows. The system processes raw datasets, identifies inconsistencies, handles missing values, removes duplicate records, and generates clean datasets for analysis.
+
+The project also automates report generation and visual analytics using Python libraries and Power BI dashboards. By reducing manual preprocessing effort, the system improves reporting efficiency and helps users gain meaningful insights from raw data.
+
+## Key Features
+
+* Automated data cleaning using Python
+* Missing value handling
+* Duplicate data removal
+* Data standardization and preprocessing
+* Automated Excel report generation
+* Data visualization using charts and graphs
+* Power BI dashboard integration
+* Cleaned dataset export functionality
+
+## Technologies Used
+
+* Python
+* Pandas
+* Matplotlib
+* OpenPyXL
+* Seaborn
+* Power BI
+* Excel
+
+## Workflow
+
+1. Load raw dataset
+2. Clean and preprocess data
+3. Remove inconsistencies and duplicates
+4. Generate reports automatically
+5. Create visual summaries and dashboards
+6. Export cleaned data and analytics reports
+
+## Expected Outcome
+
+* Improved reporting accuracy
+* Reduced manual data cleaning effort
+* Better data visualization and analysis
+* Efficient preprocessing workflow automation
+
+## Output Files
+
+* cleaned_data.csv
+* report.xlsx
+* math_chart.png
+
+## Author
+
+Ranjana S
